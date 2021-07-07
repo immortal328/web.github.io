@@ -40,6 +40,9 @@ p{
     /*margin: 50px 30px;*/
    
 }
+.content{
+    margin:50px 20px;
+    }
 .sedans{
     background-color: hsl(31, 77%, 52%);
     border-top-left-radius: 10px;
